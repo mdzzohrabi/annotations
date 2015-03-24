@@ -1,7 +1,7 @@
 {
-    "name": "doctrine/annotations",
+    "name": "mdzzohrabi/annotations",
     "type": "library",
-    "description": "Docblock Annotations Parser",
+    "description": "Docblock Annotations Parser [ Doctrine ]",
     "keywords": ["annotations", "docblock", "parser"],
     "homepage": "http://www.doctrine-project.org",
     "license": "MIT",
